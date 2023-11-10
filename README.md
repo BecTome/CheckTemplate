@@ -12,6 +12,8 @@ front-matter. Second, we use the
 generate references to figures and tables, which are not rendered when looking
 at the README on Github. Everything else is standard markdown.
 
+hola
+
 There are *two* important folders: `figures` and `appendix`. Both of them will
 remain in the repository even if they are empty (they come with a `.gitkeep`
 file). The `figures` folder is where figures are stored, and the `appendix`
